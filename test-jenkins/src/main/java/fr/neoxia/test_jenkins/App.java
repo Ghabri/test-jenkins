@@ -5,7 +5,8 @@ package fr.neoxia.test_jenkins;
  * 
  */
 public class App {
-	public void App() {
+	public  App() {
 
 	}
+	(
 }
