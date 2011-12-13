@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.017" errors="0" skipped="0" tests="1" name="org.test.jenkins.B.AppTest">
+<testsuite failures="0" time="0.008" errors="0" skipped="0" tests="1" name="org.test.jenkins.B.AppTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Libraries"/>
@@ -21,7 +21,7 @@
     <property name="basedir" value="/Users/i.ghabri/Documents/workspace-sts-2.8.1.RELEASE/test-jenkins/test-jenkins-Parent/test-jenkins-B"/>
     <property name="java.endorsed.dirs" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/endorsed"/>
     <property name="os.arch" value="x86_64"/>
-    <property name="surefire.real.class.path" value="/Users/i.ghabri/Documents/workspace-sts-2.8.1.RELEASE/test-jenkins/test-jenkins-Parent/test-jenkins-B/target/surefire/surefirebooter8762814115088003310.jar"/>
+    <property name="surefire.real.class.path" value="/Users/i.ghabri/Documents/workspace-sts-2.8.1.RELEASE/test-jenkins/test-jenkins-Parent/test-jenkins-B/target/surefire/surefirebooter3483551856940951254.jar"/>
     <property name="java.io.tmpdir" value="/var/folders/md/mdzILQn2HGKeCzT6mG7E2E+++TM/-Tmp-/"/>
     <property name="line.separator" value="
 "/>
