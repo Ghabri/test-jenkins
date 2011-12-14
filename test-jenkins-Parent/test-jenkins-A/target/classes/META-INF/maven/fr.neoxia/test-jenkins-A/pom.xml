@@ -5,11 +5,11 @@
   <parent>
     <artifactId>test-jenkins-Parent</artifactId>
     <groupId>fr.neoxia</groupId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
   </parent>
   <groupId>fr.neoxia</groupId>
   <artifactId>test-jenkins-A</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <name>test-jenkins-A</name>
   <url>http://maven.apache.org</url>
   <properties>
