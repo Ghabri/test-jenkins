@@ -9,7 +9,7 @@
   </parent>
   <groupId>fr.neoxia</groupId>
   <artifactId>test-jenkins-B</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT</version>
   <name>test-jenkins-B</name>
   <url>http://maven.apache.org</url>
   <properties>
